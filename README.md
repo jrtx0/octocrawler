@@ -1,4 +1,4 @@
-## OctodexImgDownloader
+## octocatcrawler
 OctodexImgDownloader is a python script, designed for download all [Octodex](https://octodex.github.com) image.
 
 ### System requirements
